@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
