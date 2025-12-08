@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 <!-- END -->
 
