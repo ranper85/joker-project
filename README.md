@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
