@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
