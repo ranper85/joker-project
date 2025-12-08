@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
