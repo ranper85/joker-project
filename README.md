@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
