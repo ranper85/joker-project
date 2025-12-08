@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
