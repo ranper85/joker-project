@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
