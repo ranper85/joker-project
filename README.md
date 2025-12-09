@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
