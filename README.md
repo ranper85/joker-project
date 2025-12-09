@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
