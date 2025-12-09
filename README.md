@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
