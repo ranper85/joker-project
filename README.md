@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
