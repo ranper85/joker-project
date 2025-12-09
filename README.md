@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
