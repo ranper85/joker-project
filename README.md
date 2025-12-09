@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What do you call a fish wearing a bowtie? Sofishticated.
 
 <!-- END -->
 
