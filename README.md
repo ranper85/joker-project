@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
