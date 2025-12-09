@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
