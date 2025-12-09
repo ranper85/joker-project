@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
