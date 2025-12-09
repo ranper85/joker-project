@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> What do you call a female snake. misssssssss 
 
 <!-- END -->
 
