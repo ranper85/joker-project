@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
