@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
