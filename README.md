@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
