@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 <!-- END -->
 
