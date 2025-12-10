@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 <!-- END -->
 
