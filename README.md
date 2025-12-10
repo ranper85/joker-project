@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
