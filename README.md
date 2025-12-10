@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 <!-- END -->
 
