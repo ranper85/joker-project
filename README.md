@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
