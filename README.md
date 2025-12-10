@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
