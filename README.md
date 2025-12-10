@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
