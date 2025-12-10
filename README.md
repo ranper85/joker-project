@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
