@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
