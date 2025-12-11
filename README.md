@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
