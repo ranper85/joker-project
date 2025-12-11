@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> Why did the barber win the race? He took a short cut.
 
 <!-- END -->
 
