@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
