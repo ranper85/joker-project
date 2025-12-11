@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
