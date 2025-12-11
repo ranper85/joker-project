@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
