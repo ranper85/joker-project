@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 <!-- END -->
 
