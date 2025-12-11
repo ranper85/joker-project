@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
