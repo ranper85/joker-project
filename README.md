@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
