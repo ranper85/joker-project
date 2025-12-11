@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
