@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
