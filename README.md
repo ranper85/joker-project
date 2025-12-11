@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
