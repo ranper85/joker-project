@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
