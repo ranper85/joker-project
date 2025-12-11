@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
