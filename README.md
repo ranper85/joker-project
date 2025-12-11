@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 <!-- END -->
 
