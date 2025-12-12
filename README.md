@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
 
 <!-- END -->
 
