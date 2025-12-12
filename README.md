@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
