@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 <!-- END -->
 
