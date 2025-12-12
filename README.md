@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
