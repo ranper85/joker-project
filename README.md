@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+> Why do pumpkins sit on peopleâs porches?
+
+They have no hands to knock on the door.
 
 <!-- END -->
 
