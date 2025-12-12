@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
