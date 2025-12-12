@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
