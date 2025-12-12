@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
