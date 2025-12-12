@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
