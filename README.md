@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
