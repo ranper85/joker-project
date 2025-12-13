@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
