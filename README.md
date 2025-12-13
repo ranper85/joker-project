@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
