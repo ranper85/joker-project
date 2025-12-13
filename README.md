@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
