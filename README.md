@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
