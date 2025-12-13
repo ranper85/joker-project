@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
