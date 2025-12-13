@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
