@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
