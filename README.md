@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
