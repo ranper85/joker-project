@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
