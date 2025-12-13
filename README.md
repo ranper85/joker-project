@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
