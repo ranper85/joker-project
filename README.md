@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
