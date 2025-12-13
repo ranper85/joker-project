@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
