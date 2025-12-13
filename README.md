@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
