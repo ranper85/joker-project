@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
