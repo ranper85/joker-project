@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
