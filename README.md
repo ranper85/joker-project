@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
