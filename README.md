@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
