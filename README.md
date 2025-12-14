@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
