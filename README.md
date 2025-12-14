@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 <!-- END -->
 
