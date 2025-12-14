@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
