@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
