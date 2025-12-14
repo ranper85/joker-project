@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
