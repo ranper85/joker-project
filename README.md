@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
