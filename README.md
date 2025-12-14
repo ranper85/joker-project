@@ -5,7 +5,13 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+> Wife: Honey Iâm pregnant.
+
+Me: Wellâ¦. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
 
 <!-- END -->
 
