@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
