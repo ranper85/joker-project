@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
