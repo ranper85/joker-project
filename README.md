@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
