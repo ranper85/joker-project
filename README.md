@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 <!-- END -->
 
