@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
