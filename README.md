@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
