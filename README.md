@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
