@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
