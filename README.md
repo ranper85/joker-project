@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
