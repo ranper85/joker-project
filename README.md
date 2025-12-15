@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
