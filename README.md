@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
