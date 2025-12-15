@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
