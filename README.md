@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
