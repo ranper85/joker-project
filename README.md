@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
