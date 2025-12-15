@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
