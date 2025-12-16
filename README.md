@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 <!-- END -->
 
