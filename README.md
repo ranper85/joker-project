@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
