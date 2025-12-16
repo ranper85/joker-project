@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
