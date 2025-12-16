@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
