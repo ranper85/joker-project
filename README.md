@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
