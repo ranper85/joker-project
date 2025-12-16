@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
