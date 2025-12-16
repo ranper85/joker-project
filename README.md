@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
 
 <!-- END -->
 
