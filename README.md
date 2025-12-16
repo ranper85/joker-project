@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
