@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 <!-- END -->
 
