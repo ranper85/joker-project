@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 <!-- END -->
 
