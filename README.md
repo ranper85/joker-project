@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 <!-- END -->
 
