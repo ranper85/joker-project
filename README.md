@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
