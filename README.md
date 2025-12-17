@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
