@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
