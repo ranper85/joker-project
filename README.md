@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
