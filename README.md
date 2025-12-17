@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
