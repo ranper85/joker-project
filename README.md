@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 <!-- END -->
 
