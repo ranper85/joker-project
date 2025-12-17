@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
