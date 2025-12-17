@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
