@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
