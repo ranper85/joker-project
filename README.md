@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
