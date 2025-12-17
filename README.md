@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
