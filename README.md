@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
