@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
