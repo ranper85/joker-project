@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
