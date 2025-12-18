@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 <!-- END -->
 
