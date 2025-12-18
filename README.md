@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
