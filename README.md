@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
