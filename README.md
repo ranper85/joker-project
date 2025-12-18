@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
