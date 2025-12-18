@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
 
 <!-- END -->
 
