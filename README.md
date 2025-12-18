@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
