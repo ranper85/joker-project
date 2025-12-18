@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
