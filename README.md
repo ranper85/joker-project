@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
 
 <!-- END -->
 
