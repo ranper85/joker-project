@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
