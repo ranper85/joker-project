@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
