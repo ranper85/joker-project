@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 <!-- END -->
 
