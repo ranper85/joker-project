@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 <!-- END -->
 
