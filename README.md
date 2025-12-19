@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
