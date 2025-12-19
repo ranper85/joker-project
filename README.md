@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
