@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
