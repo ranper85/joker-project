@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
