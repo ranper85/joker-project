@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
