@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
