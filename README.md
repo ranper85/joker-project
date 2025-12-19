@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
