@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
