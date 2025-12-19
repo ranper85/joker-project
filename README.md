@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
