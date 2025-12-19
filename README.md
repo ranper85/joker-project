@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
