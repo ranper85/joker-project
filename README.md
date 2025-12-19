@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
