@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
