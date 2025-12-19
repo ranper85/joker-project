@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, âsorry we donât serve spiritsâ
 
 <!-- END -->
 
