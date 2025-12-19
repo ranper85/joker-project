@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
