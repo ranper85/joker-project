@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
