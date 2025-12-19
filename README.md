@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
