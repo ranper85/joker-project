@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
