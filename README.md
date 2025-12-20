@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because thereâs a Shortstop in between!
+> I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 <!-- END -->
 
