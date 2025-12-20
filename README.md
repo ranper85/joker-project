@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
