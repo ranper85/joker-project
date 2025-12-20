@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
