@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
