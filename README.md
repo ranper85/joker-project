@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 <!-- END -->
 
