@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
