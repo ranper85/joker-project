@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
