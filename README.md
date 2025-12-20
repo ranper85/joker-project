@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Why was the picture sent to prison? It was framed.
 
 <!-- END -->
 
