@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
