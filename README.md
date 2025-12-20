@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
