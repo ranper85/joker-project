@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
