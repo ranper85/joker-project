@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
