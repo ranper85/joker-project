@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
