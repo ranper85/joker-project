@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
