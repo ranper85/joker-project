@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
