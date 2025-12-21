@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
