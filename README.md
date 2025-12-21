@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
