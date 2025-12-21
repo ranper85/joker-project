@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
