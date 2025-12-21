@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
 
 <!-- END -->
 
