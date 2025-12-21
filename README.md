@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
