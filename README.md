@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
