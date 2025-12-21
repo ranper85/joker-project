@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 <!-- END -->
 
