@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
