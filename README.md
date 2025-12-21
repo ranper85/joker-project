@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Never take advice from electrons. They are always negative.
 
 <!-- END -->
 
