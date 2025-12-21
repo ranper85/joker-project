@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
