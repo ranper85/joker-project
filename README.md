@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
