@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
