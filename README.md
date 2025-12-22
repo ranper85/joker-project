@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
