@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
