@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
