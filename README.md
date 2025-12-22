@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
