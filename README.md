@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
