@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
