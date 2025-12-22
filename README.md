@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
 
 <!-- END -->
 
