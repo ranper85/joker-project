@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
