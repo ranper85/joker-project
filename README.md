@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
