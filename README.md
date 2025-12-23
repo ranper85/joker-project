@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
