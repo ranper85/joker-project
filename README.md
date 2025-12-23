@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
 
 <!-- END -->
 
