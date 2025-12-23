@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
