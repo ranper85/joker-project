@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
