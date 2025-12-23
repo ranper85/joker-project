@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
