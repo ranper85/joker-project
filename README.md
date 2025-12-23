@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
