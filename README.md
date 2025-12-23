@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
