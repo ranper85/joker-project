@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 <!-- END -->
 
