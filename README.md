@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
