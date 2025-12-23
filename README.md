@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
