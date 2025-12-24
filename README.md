@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
