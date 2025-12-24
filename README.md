@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
