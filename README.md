@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
