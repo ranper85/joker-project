@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
