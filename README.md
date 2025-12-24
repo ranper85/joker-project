@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
