@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 <!-- END -->
 
