@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
