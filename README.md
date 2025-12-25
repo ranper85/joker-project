@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
