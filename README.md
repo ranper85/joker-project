@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
