@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 <!-- END -->
 
