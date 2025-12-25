@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
 
 <!-- END -->
 
