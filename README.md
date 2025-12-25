@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
