@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
