@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.
+> Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 <!-- END -->
 
