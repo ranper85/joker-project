@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
