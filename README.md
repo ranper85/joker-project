@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
