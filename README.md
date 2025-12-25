@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
