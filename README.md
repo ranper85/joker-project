@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 <!-- END -->
 
