@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ever wondered why bees hum? It's because they don't know the words.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
