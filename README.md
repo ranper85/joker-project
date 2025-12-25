@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
