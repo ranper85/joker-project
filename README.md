@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
