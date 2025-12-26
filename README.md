@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
