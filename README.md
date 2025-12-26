@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
