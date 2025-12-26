@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
