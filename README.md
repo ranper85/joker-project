@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> How are false teeth like stars? They come out at night!
 
 <!-- END -->
 
