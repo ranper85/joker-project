@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
