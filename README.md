@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
