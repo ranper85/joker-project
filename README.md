@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
