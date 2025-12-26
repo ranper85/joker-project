@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
