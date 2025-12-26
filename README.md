@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
