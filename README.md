@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
