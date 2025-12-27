@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
