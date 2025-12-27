@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
 
 <!-- END -->
 
