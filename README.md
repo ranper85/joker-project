@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
