@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a chicken with a skunk? A fowl smell!
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
