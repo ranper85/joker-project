@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
