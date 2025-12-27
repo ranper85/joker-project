@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
