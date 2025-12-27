@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There are two types of people in this world, those who can extrapolate from incomplete data...
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
