@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
