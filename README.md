@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
