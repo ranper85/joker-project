@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
