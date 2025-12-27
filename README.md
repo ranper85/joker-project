@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
