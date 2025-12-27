@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
