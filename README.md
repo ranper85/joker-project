@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
