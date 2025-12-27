@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
