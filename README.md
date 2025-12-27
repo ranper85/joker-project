@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+> A woman is on trial for beating her husband to death with his guitar collection. Judge says, âFirst offender?â She says, âNo, first a Gibson! Then a Fender!â
 
 <!-- END -->
 
