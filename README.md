@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 <!-- END -->
 
