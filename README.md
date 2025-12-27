@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
