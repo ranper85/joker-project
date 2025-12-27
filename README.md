@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
