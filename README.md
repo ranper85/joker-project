@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
