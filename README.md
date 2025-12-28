@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
