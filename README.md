@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
