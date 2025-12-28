@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
