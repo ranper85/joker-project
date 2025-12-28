@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
