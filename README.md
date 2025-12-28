@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
