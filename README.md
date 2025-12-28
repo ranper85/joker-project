@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
