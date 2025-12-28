@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
