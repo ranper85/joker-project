@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
