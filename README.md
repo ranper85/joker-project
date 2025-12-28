@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
