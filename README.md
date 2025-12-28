@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
