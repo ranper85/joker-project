@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
