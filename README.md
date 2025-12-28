@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
