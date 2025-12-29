@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
