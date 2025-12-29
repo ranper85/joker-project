@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
