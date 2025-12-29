@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
