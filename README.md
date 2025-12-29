@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
