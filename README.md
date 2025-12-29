@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
