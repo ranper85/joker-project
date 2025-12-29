@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
