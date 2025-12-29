@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
