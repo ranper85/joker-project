@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
