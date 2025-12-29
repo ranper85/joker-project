@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 <!-- END -->
 
