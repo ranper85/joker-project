@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
