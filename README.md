@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
