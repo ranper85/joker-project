@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
