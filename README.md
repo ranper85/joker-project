@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
