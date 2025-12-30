@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
