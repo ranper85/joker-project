@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
