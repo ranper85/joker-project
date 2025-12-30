@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
