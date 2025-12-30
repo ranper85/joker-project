@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
