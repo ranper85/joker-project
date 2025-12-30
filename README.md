@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
