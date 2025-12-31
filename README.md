@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
