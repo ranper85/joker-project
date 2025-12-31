@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
