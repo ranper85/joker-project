@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
