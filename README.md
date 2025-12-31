@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
