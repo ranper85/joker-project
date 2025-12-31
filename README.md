@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish with no eyes? A fsh.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
