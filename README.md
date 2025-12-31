@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
