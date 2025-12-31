@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
