@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
