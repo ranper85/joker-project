@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
