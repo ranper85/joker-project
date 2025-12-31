@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
