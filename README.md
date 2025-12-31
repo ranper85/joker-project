@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
