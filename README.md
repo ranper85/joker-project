@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
