@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
