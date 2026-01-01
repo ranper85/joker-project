@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
