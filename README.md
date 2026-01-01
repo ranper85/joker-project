@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
