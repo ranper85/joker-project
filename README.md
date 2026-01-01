@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
