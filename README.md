@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
