@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
