@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
