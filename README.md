@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
