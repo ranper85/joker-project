@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> What animal is always at a game of cricket? A bat.
 
 <!-- END -->
 
