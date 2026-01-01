@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
