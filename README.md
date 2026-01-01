@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
