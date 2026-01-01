@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 <!-- END -->
 
