@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
