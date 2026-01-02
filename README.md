@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
