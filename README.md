@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
