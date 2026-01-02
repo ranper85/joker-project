@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
