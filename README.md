@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
