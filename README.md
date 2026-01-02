@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
