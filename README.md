@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 <!-- END -->
 
