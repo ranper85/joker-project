@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
