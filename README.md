@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
