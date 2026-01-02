@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+> This is my step ladder. I never knew my real ladder.
 
 <!-- END -->
 
