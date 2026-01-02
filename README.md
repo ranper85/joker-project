@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
