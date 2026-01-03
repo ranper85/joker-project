@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
