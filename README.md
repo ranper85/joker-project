@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> What do you call a fish wearing a bowtie? Sofishticated.
 
 <!-- END -->
 
