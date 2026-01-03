@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
