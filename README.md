@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two muffins were sitting in an oven, and the first looks over to the second, and says, âman, itâs really hot in hereâ. The second looks over at the first with a surprised look, and answers, âWHOA, a talking muffin!â
+> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 <!-- END -->
 
