@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
