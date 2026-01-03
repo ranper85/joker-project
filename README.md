@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 <!-- END -->
 
