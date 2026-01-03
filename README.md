@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
