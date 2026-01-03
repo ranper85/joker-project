@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
