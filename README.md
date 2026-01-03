@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish with no eyes? A fsh.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
