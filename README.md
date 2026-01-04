@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 <!-- END -->
 
