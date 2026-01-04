@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 <!-- END -->
 
