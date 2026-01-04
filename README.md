@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
