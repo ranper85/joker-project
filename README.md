@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
