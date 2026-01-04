@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
