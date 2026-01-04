@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
