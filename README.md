@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
