@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
