@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
