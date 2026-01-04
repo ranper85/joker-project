@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 <!-- END -->
 
