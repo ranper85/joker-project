@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 <!-- END -->
 
