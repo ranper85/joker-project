@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
