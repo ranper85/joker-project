@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
