@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
