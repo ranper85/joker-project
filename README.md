@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
