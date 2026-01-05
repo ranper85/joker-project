@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
