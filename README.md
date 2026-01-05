@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
