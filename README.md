@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
