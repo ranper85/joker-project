@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
