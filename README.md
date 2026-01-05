@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
