@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
