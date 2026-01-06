@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
