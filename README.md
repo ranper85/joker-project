@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
