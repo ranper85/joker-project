@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> What animal is always at a game of cricket? A bat.
 
 <!-- END -->
 
