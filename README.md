@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 <!-- END -->
 
