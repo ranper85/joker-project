@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
