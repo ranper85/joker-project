@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
