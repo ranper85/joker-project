@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
