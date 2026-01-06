@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
