@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> What do I look like? A JOKE MACHINE!?
 
 <!-- END -->
 
