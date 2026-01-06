@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
