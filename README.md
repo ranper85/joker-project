@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
