@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> What's red and bad for your teeth? A Brick.
 
 <!-- END -->
 
