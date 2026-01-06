@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
