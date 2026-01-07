@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
