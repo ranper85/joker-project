@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 <!-- END -->
 
