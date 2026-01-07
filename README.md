@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
