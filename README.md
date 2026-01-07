@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 <!-- END -->
 
