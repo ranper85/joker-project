@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 <!-- END -->
 
