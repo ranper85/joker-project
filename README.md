@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
