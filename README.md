@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
