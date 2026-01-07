@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
