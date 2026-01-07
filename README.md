@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
 
 <!-- END -->
 
