@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 <!-- END -->
 
