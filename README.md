@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
