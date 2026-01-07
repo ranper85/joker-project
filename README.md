@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
