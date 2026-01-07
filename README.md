@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
