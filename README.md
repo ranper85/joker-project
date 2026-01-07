@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
