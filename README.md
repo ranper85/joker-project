@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
