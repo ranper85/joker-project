@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
