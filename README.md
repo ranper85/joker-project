@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
