@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
