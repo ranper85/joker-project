@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
