@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
