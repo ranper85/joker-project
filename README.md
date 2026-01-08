@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
