@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
