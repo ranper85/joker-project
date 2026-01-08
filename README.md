@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
