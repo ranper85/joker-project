@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
