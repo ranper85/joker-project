@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
