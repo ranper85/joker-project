@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 <!-- END -->
 
