@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
 
 <!-- END -->
 
