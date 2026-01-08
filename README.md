@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
