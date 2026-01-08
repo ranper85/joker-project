@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
