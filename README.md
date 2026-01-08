@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
