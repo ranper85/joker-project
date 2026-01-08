@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
