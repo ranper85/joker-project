@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
