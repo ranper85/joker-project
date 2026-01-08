@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
