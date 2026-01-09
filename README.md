@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 <!-- END -->
 
