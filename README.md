@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
