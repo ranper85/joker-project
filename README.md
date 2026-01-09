@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
