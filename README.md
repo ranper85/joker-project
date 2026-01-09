@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
