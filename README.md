@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
