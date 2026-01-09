@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
