@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
