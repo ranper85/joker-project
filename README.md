@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 <!-- END -->
 
