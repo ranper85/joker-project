@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
