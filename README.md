@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
