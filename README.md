@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
