@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
