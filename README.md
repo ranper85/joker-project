@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
