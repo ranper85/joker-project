@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
 
 <!-- END -->
 
