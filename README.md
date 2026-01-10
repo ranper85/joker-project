@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
