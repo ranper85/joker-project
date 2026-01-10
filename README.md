@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
