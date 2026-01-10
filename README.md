@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
