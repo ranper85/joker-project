@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
