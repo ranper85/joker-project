@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
