@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
