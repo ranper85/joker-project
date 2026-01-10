@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
