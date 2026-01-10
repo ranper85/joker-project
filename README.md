@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
