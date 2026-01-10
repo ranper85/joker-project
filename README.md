@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
