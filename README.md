@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
