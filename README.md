@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
