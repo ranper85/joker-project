@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
