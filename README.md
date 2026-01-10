@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
