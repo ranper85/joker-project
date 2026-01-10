@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
