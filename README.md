@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
