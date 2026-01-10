@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
