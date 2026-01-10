@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
