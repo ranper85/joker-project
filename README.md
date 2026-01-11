@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
