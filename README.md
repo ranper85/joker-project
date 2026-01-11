@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
