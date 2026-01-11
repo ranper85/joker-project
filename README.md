@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
