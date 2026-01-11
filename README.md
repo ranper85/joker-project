@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
