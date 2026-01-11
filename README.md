@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
