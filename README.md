@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
