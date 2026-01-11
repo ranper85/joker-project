@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 <!-- END -->
 
