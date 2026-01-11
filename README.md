@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
