@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
