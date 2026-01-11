@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
