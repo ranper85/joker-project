@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
