@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
