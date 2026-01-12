@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
