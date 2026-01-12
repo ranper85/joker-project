@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
