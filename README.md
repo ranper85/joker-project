@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
