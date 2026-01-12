@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
