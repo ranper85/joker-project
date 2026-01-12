@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
