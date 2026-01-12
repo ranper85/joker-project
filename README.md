@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
