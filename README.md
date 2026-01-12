@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 <!-- END -->
 
