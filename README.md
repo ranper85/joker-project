@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
