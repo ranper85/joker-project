@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
