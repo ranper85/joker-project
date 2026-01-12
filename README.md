@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
