@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> What do you call an old snowman? Water.
 
 <!-- END -->
 
