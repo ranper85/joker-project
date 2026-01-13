@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
