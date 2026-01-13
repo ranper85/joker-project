@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
