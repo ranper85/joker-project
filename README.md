@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
