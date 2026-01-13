@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
