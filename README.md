@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
