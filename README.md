@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
