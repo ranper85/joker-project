@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
