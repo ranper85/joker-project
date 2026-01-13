@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
