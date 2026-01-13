@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
