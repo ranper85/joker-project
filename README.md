@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 <!-- END -->
 
