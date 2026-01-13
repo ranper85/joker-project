@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
