@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
