@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
