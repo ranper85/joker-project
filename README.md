@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
