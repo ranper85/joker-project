@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
