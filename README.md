@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
