@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
