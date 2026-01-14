@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
