@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
