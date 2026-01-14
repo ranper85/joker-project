@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
