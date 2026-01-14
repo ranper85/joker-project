@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
