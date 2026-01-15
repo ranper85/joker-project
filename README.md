@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 <!-- END -->
 
