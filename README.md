@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
