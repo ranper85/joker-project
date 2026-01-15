@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
