@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
