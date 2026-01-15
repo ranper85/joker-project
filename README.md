@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
