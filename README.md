@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 <!-- END -->
 
