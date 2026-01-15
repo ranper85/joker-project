@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
