@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
