@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> A cannibal is someone who is fed up with people.
 
 <!-- END -->
 
