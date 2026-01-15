@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
