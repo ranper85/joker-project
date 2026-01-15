@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
 
 <!-- END -->
 
