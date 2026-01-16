@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
