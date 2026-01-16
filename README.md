@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
