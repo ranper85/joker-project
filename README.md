@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+> Why did the barber win the race? He took a short cut.
 
 <!-- END -->
 
