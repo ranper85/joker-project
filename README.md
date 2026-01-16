@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
