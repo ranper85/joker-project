@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
