@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
