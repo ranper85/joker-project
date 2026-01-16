@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
