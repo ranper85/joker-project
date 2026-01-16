@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
