@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
