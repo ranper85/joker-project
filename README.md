@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
