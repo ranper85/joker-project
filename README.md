@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+> What do you call a nervous javelin thrower? Shakespeare.
 
 <!-- END -->
 
