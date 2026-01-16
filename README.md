@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
