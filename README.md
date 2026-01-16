@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
