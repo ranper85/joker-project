@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
