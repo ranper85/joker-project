@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
