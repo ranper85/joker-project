@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
