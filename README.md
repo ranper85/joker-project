@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
