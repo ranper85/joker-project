@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
