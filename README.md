@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There are two types of people in this world, those who can extrapolate from incomplete data...
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
