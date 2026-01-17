@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
