@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
