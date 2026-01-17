@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
