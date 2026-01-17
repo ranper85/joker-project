@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
