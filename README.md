@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
