@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
