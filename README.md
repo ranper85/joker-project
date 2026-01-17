@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
