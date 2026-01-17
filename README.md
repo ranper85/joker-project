@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
