@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
