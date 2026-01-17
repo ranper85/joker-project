@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
