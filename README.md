@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
