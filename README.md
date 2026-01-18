@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
