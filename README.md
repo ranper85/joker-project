@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
