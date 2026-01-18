@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
