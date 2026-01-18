@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
