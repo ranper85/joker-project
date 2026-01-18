@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
