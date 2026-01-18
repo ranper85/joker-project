@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
 
 <!-- END -->
 
