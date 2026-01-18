@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
