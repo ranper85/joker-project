@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
