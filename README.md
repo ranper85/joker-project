@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
