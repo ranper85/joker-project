@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
