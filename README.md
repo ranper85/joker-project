@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
