@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
