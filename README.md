@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
