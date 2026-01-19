@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
