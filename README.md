@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
