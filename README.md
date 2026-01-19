@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
