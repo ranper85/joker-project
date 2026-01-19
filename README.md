@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
