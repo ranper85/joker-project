@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
