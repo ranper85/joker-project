@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
