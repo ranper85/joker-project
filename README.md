@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
