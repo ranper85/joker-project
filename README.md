@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
 
 <!-- END -->
 
