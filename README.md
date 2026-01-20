@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
 
 <!-- END -->
 
