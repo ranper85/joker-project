@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
