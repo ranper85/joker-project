@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
