@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
