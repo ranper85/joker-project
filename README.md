@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
