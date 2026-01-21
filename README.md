@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
