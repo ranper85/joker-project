@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
