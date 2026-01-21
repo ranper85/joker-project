@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
