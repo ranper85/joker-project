@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
