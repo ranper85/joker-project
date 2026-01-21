@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
 
 <!-- END -->
 
