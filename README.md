@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
 
 <!-- END -->
 
