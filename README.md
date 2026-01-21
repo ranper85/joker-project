@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 <!-- END -->
 
