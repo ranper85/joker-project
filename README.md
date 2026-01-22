@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
