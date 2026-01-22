@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
