@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> What do you call a nervous javelin thrower? Shakespeare.
 
 <!-- END -->
 
