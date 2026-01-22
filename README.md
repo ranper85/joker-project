@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
