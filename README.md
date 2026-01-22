@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
