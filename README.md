@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 <!-- END -->
 
