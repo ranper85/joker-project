@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
