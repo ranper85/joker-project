@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
