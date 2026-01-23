@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
