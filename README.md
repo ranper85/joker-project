@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
