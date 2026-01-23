@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
