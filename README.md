@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
