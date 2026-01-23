@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
