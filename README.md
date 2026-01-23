@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
