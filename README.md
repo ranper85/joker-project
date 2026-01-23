@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 <!-- END -->
 
