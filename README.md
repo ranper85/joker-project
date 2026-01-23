@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
