@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
 
 <!-- END -->
 
