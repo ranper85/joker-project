@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
