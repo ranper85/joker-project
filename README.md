@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
