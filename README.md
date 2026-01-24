@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
 
 <!-- END -->
 
