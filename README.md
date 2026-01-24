@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
