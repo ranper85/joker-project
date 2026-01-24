@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
