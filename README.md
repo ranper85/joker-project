@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
