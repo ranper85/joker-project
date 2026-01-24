@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
