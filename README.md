@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
