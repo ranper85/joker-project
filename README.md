@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 <!-- END -->
 
