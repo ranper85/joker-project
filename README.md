@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
