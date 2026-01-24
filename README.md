@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
