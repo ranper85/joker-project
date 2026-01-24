@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
