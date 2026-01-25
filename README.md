@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
