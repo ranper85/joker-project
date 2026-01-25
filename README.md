@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
