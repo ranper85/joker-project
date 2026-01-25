@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
