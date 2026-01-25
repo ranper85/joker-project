@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
