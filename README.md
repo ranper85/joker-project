@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
