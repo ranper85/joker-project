@@ -5,8 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
