@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 <!-- END -->
 
