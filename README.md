@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 <!-- END -->
 
