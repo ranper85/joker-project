@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
