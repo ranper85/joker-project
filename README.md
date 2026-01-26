@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
