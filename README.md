@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
