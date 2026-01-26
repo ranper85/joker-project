@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
