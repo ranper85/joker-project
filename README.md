@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
