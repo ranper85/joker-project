@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
