@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was raining cats and dogs the other day. I almost stepped in a poodle.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
