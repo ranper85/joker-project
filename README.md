@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because thereâs a Shortstop in between!
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
