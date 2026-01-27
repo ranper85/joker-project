@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
