@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
