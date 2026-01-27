@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
