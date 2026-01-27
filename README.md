@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
