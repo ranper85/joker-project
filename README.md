@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
