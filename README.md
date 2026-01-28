@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
