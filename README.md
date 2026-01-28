@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
