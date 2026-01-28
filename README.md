@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
