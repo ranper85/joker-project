@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
