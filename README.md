@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
