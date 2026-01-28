@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
 
 <!-- END -->
 
