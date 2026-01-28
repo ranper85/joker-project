@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
