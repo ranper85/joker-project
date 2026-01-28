@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
