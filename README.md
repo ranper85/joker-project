@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
