@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
