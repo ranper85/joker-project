@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
