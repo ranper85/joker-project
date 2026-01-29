@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
