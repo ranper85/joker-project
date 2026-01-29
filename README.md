@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
