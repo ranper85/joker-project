@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
