@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
