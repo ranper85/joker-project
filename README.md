@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
