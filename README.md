@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
 
 <!-- END -->
 
