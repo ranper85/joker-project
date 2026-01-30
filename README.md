@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
