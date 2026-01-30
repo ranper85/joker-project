@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
 
 <!-- END -->
 
