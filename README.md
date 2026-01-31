@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
