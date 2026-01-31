@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
