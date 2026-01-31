@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
