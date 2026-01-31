@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 <!-- END -->
 
