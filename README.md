@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
