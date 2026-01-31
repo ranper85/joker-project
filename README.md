@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 <!-- END -->
 
