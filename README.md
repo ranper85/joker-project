@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
