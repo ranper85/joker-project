@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
