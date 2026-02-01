@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
