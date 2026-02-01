@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
