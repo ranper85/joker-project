@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
