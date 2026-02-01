@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
