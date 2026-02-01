@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
 
 <!-- END -->
 
