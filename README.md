@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
