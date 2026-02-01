@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
