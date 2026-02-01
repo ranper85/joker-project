@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
