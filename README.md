@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
