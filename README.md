@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
