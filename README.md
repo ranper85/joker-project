@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 <!-- END -->
 
