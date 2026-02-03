@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 <!-- END -->
 
