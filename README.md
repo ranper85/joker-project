@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 <!-- END -->
 
