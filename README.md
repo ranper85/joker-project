@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
