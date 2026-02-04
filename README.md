@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
