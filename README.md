@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
