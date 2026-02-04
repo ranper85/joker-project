@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
