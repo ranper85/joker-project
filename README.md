@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
