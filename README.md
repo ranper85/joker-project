@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
