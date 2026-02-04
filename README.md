@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
 
 <!-- END -->
 
