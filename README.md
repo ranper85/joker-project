@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
