@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 <!-- END -->
 
