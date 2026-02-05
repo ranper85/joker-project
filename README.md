@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
