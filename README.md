@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
