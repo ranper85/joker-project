@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
