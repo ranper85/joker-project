@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 <!-- END -->
 
