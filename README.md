@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
