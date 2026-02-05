@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
