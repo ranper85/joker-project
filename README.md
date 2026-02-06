@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
