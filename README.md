@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
