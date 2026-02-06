@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 <!-- END -->
 
