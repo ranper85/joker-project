@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
