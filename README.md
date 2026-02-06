@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
