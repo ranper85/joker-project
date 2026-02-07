@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
