@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
