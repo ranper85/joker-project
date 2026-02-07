@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
