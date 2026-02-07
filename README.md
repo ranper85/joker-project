@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
