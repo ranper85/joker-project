@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> What do you call a magician who has lost their magic? Ian.
 
 <!-- END -->
 
