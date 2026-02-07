@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
