@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
