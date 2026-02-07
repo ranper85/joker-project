@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
