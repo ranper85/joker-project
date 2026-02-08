@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
