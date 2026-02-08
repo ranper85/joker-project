@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
