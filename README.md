@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
