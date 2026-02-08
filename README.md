@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
