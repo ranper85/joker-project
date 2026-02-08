@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
