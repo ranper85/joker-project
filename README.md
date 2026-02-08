@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
