@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
