@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
