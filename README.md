@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
