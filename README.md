@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
