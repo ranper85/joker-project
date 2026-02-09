@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
