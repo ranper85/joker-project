@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
