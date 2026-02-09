@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
