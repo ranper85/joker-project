@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
