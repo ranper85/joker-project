@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
