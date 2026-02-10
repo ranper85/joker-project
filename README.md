@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
