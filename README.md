@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
