@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
