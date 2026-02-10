@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
