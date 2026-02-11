@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
