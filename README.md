@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
