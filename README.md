@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
