@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
