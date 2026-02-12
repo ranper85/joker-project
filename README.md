@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
