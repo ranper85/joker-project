@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
