@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
