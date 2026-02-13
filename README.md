@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
