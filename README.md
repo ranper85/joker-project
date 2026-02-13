@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
