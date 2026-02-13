@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
