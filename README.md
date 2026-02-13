@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
