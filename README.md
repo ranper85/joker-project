@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
