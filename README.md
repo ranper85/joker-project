@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 <!-- END -->
 
