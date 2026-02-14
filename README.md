@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
