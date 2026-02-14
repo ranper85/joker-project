@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
