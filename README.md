@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
