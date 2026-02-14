@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
