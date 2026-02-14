@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
