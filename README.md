@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 <!-- END -->
 
