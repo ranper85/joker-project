@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
