@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
+> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
 
 <!-- END -->
 
