@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
