@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
