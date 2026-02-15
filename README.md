@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
 
 <!-- END -->
 
