@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
