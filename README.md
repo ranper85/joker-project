@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
