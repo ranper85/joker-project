@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
