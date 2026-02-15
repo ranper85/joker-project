@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 <!-- END -->
 
