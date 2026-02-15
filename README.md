@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
