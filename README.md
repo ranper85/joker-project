@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 <!-- END -->
 
