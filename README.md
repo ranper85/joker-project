@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
