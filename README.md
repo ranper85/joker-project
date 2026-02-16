@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What do you call corn that joins the army? Kernel.
 
 <!-- END -->
 
