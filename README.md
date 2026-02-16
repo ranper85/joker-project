@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 <!-- END -->
 
