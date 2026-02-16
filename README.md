@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
