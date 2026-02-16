@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
