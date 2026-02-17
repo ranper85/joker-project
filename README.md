@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
