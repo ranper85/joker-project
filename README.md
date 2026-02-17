@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
