@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
