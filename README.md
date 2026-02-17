@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
