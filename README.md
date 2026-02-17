@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
