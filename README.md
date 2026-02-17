@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
