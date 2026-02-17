@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
