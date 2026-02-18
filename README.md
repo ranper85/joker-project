@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 <!-- END -->
 
