@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
