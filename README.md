@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
