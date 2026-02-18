@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+> Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
 
 <!-- END -->
 
