@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
