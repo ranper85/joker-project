@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 <!-- END -->
 
