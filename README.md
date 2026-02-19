@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
