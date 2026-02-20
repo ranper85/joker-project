@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
