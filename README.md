@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
