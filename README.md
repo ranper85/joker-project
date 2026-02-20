@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
