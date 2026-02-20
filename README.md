@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
