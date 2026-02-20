@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
