@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
