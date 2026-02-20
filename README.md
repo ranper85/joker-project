@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
