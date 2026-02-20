@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
