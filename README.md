@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
