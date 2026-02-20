@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
