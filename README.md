@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
