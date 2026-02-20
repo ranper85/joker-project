@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
