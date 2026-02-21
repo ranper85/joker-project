@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
