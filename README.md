@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
