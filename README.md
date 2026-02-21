@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
