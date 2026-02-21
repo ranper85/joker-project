@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
