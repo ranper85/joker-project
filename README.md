@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
