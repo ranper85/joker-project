@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
 
 <!-- END -->
 
