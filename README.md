@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
