@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
