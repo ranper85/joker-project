@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
