@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
