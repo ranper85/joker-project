@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
