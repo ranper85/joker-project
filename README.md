@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
