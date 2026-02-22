@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
