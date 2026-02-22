@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
