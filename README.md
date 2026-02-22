@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
