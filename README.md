@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
