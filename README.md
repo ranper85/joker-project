@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
