@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
