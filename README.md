@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
