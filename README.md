@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
