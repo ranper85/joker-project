@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
