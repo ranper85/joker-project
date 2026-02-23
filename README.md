@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
