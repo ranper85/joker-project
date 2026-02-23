@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
