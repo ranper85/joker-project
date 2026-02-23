@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
