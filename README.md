@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
