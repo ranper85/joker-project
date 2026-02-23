@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 <!-- END -->
 
