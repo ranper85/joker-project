@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
