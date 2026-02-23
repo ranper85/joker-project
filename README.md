@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Why do pumpkins sit on peopleâs porches?
+
+They have no hands to knock on the door.
 
 <!-- END -->
 
