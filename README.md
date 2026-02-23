@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
