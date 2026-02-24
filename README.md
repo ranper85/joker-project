@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
