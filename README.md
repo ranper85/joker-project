@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> Why did the cookie cry? It was feeling crumby.
 
 <!-- END -->
 
