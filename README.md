@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
