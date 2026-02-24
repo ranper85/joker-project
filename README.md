@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
