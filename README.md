@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
