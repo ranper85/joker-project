@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 <!-- END -->
 
