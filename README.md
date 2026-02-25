@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 <!-- END -->
 
