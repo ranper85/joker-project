@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
