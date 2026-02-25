@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
