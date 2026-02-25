@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
