@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
