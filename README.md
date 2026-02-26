@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
