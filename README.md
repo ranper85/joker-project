@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
