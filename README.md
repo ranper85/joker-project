@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
