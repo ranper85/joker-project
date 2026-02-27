@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
