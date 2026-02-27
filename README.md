@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
