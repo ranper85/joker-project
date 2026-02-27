@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> Why did the coffee file a police report? It got mugged.
 
 <!-- END -->
 
