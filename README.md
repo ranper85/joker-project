@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
