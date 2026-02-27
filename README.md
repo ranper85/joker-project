@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
