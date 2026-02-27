@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
