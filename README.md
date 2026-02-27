@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
