@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
