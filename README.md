@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
