@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
