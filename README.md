@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 <!-- END -->
 
