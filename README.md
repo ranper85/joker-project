@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
