@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
