@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
