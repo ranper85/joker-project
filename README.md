@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
