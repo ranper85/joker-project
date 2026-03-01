@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
