@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
