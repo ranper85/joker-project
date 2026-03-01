@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 <!-- END -->
 
