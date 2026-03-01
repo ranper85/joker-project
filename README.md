@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 <!-- END -->
 
