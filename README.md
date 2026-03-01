@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
