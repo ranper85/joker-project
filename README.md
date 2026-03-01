@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
