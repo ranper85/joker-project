@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Why was the broom late for the meeting? He overswept.
 
 <!-- END -->
 
