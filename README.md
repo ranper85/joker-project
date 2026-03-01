@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
