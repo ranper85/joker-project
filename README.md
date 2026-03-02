@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
