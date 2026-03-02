@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
