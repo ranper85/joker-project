@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
 
 <!-- END -->
 
