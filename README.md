@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
