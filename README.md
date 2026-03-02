@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
