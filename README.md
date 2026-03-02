@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
 
 <!-- END -->
 
