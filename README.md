@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> What's brown and sticky? A stick.
 
 <!-- END -->
 
