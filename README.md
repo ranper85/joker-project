@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
