@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
