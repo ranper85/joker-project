@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
