@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
