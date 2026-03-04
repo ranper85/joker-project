@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
