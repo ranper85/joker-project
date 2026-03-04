@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
