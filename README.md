@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 <!-- END -->
 
