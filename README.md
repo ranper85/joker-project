@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
