@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
