@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
