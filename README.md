@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
