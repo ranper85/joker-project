@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
