@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
