@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
