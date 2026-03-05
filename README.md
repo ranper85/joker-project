@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> What's blue and not very heavy?  Light blue.
 
 <!-- END -->
 
