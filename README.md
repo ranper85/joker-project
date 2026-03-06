@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
