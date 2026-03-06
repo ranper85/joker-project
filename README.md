@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
