@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
