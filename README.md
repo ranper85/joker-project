@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
