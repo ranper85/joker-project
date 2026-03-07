@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
