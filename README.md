@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 <!-- END -->
 
