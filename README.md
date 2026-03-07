@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
