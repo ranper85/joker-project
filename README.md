@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
