@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> The invention of the wheel was what got things rolling
 
 <!-- END -->
 
