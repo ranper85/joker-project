@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
