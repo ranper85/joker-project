@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 <!-- END -->
 
