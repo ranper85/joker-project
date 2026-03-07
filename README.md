@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
