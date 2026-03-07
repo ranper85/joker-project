@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
