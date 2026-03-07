@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 <!-- END -->
 
