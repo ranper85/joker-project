@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
