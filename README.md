@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
