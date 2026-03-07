@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
