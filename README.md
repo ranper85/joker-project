@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
