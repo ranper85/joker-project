@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
