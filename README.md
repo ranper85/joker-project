@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
