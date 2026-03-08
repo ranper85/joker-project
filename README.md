@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
