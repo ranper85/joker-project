@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
