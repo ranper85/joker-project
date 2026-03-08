@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
