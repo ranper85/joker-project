@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
