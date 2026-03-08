@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
