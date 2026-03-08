@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
