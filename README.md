@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
