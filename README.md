@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 <!-- END -->
 
