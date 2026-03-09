@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
