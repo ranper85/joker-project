@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
