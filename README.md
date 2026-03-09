@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 <!-- END -->
 
