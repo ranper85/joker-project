@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
