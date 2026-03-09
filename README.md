@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
