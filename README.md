@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
