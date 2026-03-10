@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
 
 <!-- END -->
 
