@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> What has three letters and starts with gas? A Car.
 
 <!-- END -->
 
