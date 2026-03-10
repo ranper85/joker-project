@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
