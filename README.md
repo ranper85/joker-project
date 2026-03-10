@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
