@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
