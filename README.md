@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
 <!-- END -->
 
