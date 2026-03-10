@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
