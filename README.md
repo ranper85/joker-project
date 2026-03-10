@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
