@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 <!-- END -->
 
