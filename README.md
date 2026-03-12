@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
