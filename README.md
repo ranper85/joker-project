@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
