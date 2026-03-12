@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
