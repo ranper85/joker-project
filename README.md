@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 <!-- END -->
 
