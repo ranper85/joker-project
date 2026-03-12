@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
