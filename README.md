@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
