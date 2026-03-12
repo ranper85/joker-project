@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
