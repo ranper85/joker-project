@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
