@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
