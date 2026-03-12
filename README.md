@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
