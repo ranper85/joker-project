@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday, I accidentally swallowed some food coloring. The doctor says Iâm okay, but I feel like Iâve dyed a little inside.
+> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 <!-- END -->
 
