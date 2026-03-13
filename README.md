@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 <!-- END -->
 
