@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
