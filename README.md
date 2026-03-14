@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
