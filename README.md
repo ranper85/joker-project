@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 <!-- END -->
 
