@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
