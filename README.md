@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
