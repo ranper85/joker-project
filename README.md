@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
