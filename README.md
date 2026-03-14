@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
