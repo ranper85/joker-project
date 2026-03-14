@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 <!-- END -->
 
