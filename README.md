@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
