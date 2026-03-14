@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
