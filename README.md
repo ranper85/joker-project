@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
