@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 <!-- END -->
 
