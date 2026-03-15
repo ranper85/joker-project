@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
