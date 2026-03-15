@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
