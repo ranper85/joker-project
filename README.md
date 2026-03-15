@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
