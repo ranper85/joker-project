@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
