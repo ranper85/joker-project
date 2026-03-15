@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
