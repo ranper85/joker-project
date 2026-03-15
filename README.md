@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
