@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
