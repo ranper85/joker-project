@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
