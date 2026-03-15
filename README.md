@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
