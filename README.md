@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
