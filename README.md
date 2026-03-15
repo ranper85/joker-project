@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
