@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
