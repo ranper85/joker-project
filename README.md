@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
