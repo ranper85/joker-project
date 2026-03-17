@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
