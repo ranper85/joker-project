@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
