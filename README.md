@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 <!-- END -->
 
