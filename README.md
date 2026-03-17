@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
