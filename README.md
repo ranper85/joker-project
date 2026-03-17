@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 <!-- END -->
 
