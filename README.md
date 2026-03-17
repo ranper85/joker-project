@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
