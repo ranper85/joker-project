@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
