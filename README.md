@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
