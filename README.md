@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
