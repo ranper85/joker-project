@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
