@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
