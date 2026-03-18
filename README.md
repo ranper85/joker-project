@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
