@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
