@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
