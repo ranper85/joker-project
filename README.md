@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
