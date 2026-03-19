@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 <!-- END -->
 
