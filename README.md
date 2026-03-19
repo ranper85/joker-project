@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
