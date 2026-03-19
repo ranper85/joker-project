@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a seal and a sea lion?
-An ion! 
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
