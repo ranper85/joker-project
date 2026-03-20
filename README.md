@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
