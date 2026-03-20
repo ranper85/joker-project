@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
