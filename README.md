@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
