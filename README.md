@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
