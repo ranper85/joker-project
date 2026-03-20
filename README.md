@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
