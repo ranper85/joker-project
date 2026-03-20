@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
