@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
