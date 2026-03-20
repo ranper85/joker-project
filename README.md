@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
