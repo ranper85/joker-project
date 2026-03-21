@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
