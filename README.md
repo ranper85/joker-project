@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
 
 <!-- END -->
 
