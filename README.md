@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 <!-- END -->
 
