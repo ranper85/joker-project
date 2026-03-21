@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 <!-- END -->
 
