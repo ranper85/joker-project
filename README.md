@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
