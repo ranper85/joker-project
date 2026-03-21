@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 <!-- END -->
 
