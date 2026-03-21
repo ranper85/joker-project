@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
