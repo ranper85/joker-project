@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
