@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
