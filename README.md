@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
