@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 <!-- END -->
 
