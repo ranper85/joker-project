@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
