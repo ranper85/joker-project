@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
