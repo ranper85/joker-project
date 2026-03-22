@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
