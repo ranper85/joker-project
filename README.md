@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
