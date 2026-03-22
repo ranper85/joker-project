@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
