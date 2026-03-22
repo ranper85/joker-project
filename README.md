@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 <!-- END -->
 
