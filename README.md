@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
