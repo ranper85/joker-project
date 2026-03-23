@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday, I accidentally swallowed some food coloring. The doctor says Iâm okay, but I feel like Iâve dyed a little inside.
+> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 <!-- END -->
 
