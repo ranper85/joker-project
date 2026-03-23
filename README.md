@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
