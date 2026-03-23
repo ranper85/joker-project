@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> What do you call corn that joins the army? Kernel.
 
 <!-- END -->
 
