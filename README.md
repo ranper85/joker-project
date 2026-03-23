@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'd like to start a diet, but I've got too much on my plate right now.
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
