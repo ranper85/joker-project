@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
