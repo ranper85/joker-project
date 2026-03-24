@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
 
 <!-- END -->
 
