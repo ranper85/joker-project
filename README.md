@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
