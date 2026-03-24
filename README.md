@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
