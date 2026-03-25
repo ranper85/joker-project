@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
