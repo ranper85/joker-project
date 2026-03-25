@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
