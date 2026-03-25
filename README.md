@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
