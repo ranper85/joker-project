@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
