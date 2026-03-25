@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
