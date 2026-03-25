@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
+> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 <!-- END -->
 
