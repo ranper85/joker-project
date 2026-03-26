@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
