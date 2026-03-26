@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 <!-- END -->
 
