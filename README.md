@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
