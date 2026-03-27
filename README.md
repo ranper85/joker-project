@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
