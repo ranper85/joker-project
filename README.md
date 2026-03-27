@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
