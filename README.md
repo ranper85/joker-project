@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
