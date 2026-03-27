@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
