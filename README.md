@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
