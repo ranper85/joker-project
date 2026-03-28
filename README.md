@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
