@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
