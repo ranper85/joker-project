@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> What kind of bagel can fly? A plain bagel.
 
 <!-- END -->
 
