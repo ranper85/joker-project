@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
