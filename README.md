@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
