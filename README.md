@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 <!-- END -->
 
