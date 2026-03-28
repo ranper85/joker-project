@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
