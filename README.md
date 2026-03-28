@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
