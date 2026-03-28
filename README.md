@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 
 <!-- END -->
 
