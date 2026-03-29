@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
