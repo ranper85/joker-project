@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
