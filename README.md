@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
