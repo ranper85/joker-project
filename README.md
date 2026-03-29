@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
