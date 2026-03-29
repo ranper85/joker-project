@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
