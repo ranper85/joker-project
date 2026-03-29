@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
