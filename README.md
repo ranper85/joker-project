@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
