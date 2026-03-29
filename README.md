@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
