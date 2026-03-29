@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
