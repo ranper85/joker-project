@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
