@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
