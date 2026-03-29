@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Why do bees hum? Because they don't know the words.
 
 <!-- END -->
 
