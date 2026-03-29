@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
