@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> Don't trust atoms. They make up everything.
 
 <!-- END -->
 
