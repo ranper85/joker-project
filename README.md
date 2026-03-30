@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 <!-- END -->
 
