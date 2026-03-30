@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 <!-- END -->
 
