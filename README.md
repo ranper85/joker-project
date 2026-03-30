@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> I used to be a banker, but I lost interest.
 
 <!-- END -->
 
