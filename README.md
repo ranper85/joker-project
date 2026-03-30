@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 <!-- END -->
 
