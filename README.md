@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> What do you call a magician who has lost their magic? Ian.
 
 <!-- END -->
 
