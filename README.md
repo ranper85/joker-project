@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 <!-- END -->
 
