@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
