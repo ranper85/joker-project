@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 <!-- END -->
 
