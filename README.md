@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> What do you call a pig with three eyes? Piiig
 
 <!-- END -->
 
