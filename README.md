@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
