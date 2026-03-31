@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
