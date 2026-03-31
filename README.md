@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
