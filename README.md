@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
