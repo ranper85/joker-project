@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
