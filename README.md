@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
