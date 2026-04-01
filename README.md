@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
