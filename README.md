@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 
 <!-- END -->
 
