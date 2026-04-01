@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
