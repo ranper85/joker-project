@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
