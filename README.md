@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
