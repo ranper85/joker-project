@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
