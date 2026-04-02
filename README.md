@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
