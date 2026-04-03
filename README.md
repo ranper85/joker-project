@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
