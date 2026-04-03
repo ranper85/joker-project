@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
