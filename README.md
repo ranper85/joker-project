@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
