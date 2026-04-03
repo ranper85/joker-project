@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
