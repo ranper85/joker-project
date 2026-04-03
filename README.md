@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
