@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
