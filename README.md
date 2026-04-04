@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
