@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
