@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
