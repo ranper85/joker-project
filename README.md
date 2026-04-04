@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
