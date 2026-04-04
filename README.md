@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
