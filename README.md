@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
