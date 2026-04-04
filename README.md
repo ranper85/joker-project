@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
