@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
