@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
