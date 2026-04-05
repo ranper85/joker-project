@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+> A woman is on trial for beating her husband to death with his guitar collection. Judge says, âFirst offender?â She says, âNo, first a Gibson! Then a Fender!â
 
 <!-- END -->
 
