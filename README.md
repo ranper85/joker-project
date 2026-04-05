@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
