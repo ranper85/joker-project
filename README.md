@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
