@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
