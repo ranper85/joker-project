@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
