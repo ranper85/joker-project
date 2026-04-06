@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
