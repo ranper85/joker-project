@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
