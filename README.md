@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
