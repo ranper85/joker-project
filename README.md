@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
