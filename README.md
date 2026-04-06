@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
