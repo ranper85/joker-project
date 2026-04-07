@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
