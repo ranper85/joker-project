@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
