@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
