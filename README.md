@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
 
 <!-- END -->
 
