@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
