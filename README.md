@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
