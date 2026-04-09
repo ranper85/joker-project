@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
