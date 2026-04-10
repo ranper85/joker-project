@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
