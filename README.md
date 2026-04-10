@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 <!-- END -->
 
