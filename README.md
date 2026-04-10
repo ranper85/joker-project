@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 <!-- END -->
 
