@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
