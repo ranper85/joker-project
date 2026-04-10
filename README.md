@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
