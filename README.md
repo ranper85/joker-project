@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
