@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
