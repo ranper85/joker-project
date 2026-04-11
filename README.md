@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 <!-- END -->
 
