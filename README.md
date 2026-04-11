@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
