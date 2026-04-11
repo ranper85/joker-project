@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
