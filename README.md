@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
