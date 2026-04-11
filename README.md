@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
