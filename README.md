@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
