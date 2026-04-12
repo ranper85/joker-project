@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
