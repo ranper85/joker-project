@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
