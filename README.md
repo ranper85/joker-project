@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
