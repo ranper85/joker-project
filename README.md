@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
