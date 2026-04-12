@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 <!-- END -->
 
