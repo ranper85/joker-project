@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
