@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
 
 <!-- END -->
 
