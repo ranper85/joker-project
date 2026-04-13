@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
