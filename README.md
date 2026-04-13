@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
