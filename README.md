@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
