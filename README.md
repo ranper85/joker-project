@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
