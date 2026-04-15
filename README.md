@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
