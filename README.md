@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
