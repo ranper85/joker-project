@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
