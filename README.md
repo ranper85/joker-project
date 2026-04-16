@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 
 <!-- END -->
 
