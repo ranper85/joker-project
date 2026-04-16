@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
