@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
