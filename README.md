@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
