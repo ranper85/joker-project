@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
