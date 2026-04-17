@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
