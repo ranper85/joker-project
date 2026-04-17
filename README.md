@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
