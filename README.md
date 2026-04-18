@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
