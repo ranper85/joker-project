@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+> I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 <!-- END -->
 
