@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
