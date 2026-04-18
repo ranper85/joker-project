@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
