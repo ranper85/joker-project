@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
