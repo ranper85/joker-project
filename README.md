@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
