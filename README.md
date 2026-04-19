@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
