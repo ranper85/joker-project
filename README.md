@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> They're making a movie about clocks. It's about time
 
 <!-- END -->
 
