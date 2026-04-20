@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
