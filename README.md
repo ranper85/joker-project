@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
 
 <!-- END -->
 
