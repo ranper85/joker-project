@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
