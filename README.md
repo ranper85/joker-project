@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come a man driving a train got struck by lightning? He was a good conductor.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
