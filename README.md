@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
