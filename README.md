@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
