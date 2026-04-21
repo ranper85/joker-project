@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 <!-- END -->
 
