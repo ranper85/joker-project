@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
