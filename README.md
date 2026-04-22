@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
