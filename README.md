@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
