@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
