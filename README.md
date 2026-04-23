@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
