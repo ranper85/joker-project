@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> What cheese can never be yours? Nacho cheese.
 
 <!-- END -->
 
