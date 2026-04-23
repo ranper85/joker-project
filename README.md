@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
