@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
