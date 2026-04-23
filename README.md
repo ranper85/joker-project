@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
