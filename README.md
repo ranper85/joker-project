@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
