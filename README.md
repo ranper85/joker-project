@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
