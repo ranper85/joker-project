@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
 
 <!-- END -->
 
