@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
