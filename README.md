@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call someone with no nose? Nobody knows.
+> Never take advice from electrons. They are always negative.
 
 <!-- END -->
 
