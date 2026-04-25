@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
