@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
+> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 <!-- END -->
 
