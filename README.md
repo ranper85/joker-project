@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
