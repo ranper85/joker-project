@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
