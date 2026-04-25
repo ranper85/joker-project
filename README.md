@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
