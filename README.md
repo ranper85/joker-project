@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
