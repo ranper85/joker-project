@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
