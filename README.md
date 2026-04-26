@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
