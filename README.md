@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 <!-- END -->
 
