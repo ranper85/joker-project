@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
