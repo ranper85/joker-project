@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
