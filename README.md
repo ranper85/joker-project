@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
