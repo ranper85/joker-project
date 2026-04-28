@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
