@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
