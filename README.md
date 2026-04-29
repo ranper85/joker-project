@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
