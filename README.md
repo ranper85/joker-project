@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
