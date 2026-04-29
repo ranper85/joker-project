@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
