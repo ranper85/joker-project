@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
