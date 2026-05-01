@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 <!-- END -->
 
