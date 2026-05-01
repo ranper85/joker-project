@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
