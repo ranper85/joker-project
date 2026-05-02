@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
