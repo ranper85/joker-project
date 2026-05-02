@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 <!-- END -->
 
