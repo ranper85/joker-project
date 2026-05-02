@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
