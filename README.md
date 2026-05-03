@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
