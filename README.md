@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
