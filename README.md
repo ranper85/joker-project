@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
