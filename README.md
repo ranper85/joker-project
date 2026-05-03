@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
