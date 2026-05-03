@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
