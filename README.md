@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
