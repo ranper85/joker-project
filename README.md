@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 <!-- END -->
 
