@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
