@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
