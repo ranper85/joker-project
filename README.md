@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
