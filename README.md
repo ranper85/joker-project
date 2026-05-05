@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
