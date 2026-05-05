@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
