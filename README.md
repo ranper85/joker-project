@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 <!-- END -->
 
