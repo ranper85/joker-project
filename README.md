@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
