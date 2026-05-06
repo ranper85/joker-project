@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can I watch the TV? Dad: Yes, but donât turn it on.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
