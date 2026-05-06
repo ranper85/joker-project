@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
