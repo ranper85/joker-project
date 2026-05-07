@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 <!-- END -->
 
