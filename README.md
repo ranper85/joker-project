@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
