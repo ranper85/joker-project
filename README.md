@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
