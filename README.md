@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
