@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
