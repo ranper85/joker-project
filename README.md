@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
