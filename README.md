@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 <!-- END -->
 
