@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
