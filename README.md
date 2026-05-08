@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
