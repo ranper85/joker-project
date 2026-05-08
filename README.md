@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
