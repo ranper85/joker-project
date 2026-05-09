@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
