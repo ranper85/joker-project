@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
