@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
