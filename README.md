@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 <!-- END -->
 
