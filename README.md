@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
