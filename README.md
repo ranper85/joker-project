@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
