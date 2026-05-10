@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
