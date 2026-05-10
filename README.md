@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
