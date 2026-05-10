@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
