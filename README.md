@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
