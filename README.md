@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
