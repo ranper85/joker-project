@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> Why do bears have hairy coats? Fur protection.
 
 <!-- END -->
 
