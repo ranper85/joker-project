@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
