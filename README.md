@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
