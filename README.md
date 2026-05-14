@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
