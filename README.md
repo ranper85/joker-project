@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
