@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
