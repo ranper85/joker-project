@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
