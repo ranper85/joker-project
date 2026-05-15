@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
 
 <!-- END -->
 
