@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
