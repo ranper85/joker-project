@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
