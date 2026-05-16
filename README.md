@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
