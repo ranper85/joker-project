@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
