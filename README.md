@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
 
 <!-- END -->
 
