@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
