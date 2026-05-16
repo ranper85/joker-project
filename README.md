@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
