@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
