@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
