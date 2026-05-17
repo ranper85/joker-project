@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
