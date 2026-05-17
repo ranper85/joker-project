@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
