@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
