@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
