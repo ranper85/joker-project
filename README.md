@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
