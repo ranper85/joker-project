@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
