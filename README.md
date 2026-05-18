@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> How does a dyslexic poet write? Inverse.
 
 <!-- END -->
 
