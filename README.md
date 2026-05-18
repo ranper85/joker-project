@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
