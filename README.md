@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 <!-- END -->
 
