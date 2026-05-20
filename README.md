@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
