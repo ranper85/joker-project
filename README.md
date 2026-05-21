@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
