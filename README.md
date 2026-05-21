@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
