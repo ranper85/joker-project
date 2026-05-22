@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
