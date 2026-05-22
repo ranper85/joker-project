@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
