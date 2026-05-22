@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
