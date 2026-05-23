@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
