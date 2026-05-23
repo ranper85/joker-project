@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
