@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
