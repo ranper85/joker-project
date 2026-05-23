@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
