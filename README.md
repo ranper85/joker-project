@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
