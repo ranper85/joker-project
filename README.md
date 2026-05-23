@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
