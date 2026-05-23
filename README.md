@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
