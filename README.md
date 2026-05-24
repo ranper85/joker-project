@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
