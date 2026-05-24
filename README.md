@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
