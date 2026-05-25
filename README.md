@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
