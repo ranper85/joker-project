@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
