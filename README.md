@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
