@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
