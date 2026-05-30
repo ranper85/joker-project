@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
