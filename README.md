@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
