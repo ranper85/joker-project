@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
