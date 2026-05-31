@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
