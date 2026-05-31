@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
