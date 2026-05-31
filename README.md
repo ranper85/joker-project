@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
