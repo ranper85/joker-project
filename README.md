@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
