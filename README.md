@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
