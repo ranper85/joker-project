@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 <!-- END -->
 
