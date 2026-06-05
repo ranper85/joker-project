@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
