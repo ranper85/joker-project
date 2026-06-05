@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
 
 <!-- END -->
 
