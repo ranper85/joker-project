@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
