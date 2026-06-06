@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
