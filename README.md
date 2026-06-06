@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
