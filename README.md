@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
