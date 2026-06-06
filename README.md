@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
