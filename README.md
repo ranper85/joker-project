@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
