@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 <!-- END -->
 
