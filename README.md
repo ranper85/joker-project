@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
