@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
