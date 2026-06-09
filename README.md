@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> "I'm sorry." "Hi sorry, I'm dad"
 
 <!-- END -->
 
