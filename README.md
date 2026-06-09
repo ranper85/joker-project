@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
