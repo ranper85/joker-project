@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
