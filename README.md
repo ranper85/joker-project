@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
