@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
