@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
