@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
