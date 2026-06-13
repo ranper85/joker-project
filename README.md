@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
