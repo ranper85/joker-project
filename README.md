@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
