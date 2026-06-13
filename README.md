@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
