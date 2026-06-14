@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
