@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
