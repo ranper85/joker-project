@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Why was the broom late for the meeting? He overswept.
 
 <!-- END -->
 
