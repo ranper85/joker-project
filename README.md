@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
