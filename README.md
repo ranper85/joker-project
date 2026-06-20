@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
