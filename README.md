@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
