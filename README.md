@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
