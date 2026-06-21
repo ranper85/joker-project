@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
