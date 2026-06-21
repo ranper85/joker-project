@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
