@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
