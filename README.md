@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
 <!-- END -->
 
