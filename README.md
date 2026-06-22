@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
