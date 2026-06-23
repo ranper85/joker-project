@@ -5,8 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
