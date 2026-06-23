@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
