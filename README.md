@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
