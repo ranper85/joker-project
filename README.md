@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
