@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
 
 <!-- END -->
 
