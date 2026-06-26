@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 <!-- END -->
 
