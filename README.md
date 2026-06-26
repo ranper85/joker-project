@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
