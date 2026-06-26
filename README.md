@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
