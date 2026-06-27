@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
