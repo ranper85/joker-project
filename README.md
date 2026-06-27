@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
