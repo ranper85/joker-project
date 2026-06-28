@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
