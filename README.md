@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
