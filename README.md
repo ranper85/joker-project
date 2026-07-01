@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
