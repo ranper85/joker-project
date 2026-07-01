@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
