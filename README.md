@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
