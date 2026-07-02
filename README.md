@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
