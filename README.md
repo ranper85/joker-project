@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
