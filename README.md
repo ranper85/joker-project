@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
