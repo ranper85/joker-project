@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
