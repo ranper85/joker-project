@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
