@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
