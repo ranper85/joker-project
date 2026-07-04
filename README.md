@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
