@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
