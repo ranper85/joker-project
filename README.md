@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 <!-- END -->
 
