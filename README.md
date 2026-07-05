@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
