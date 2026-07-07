@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
