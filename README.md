@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
