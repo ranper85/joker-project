@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
