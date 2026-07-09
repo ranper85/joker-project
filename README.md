@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
