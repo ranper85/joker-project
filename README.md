@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
