@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
