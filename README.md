@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
