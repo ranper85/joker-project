@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
