@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 <!-- END -->
 
