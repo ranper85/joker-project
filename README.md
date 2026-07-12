@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
