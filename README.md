@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
