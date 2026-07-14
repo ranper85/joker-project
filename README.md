@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
