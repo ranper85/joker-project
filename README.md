@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 <!-- END -->
 
