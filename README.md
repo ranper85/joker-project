@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> What do you call a beehive without the b's? An eehive.
 
 <!-- END -->
 
