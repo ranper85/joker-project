@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
