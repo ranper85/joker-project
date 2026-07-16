@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
