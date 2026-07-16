@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
