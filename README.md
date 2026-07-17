@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
