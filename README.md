@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
