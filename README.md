@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
