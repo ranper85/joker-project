@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 <!-- END -->
 
