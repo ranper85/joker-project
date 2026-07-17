@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
