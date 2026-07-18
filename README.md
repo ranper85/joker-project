@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
