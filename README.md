@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
