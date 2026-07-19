@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
