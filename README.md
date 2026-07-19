@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
