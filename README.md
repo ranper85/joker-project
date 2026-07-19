@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 <!-- END -->
 
