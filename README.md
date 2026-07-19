@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
