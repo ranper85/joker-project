@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
