@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
