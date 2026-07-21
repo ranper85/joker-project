@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
