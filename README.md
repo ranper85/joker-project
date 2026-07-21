@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
