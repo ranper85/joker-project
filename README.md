@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
