@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
