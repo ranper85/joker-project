@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
