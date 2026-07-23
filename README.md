@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
