@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
