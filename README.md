@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
