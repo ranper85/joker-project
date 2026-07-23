@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
