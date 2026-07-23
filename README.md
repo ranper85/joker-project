@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
