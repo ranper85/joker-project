@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
