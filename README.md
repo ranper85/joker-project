@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
