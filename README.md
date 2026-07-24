@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
