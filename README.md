@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
