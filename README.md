@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
