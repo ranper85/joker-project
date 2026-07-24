@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
