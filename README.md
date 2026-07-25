@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
