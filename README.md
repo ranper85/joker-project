@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
