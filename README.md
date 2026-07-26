@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
