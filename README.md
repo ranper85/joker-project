@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
