@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 <!-- END -->
 
