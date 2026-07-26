@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
