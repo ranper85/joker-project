@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
