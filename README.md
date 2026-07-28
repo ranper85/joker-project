@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
