@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
