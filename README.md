@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
