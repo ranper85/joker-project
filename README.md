@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
