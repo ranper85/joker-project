@@ -5,7 +5,13 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+> Wife: Honey Iâm pregnant.
+
+Me: Wellâ¦. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
 
 <!-- END -->
 
