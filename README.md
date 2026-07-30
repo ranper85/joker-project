@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
