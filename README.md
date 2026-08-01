@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
+> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
 
 <!-- END -->
 
