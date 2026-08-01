@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
