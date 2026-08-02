@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
