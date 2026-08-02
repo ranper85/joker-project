@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish with no eyes? A fsh.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
