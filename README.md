@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
