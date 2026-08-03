@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 <!-- END -->
 
