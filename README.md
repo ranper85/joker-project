@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
