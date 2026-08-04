@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
