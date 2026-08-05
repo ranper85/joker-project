@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 <!-- END -->
 
