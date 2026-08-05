@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
