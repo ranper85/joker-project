@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
