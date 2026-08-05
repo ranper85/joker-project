@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 <!-- END -->
 
