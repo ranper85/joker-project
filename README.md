@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call someone with no nose? Nobody knows.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
