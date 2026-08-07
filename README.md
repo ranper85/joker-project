@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
