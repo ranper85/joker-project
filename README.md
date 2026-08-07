@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
