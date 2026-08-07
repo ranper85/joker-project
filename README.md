@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
