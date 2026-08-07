@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
