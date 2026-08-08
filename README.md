@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
