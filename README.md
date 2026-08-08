@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
