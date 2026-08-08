@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
