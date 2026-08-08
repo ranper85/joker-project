@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
