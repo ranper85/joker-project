@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
