@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 <!-- END -->
 
