@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
