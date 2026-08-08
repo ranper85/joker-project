@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
