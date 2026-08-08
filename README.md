@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
