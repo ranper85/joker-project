@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
