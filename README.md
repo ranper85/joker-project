@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
