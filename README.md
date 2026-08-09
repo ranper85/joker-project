@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
