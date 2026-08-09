@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
