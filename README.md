@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
 
 <!-- END -->
 
