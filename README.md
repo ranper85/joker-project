@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
