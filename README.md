@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 <!-- END -->
 
