@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
+> Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 <!-- END -->
 
