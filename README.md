@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
