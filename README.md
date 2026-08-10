@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
