@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
