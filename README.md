@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What do you call corn that joins the army? Kernel.
 
 <!-- END -->
 
