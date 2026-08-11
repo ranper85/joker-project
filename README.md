@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
