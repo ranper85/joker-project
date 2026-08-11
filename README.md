@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Why did the cookie cry? It was feeling crumby.
 
 <!-- END -->
 
