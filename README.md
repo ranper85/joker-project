@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
