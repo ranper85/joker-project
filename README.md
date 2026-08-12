@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
