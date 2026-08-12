@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
