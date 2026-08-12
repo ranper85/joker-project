@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why did the cookie cry? It was feeling crumby.
 
 <!-- END -->
 
