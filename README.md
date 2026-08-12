@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
