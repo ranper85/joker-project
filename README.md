@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
