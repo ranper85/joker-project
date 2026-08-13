@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
