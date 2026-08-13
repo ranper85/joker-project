@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
