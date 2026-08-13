@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
