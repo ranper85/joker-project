@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
