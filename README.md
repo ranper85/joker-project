@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
 
 <!-- END -->
 
