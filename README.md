@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
