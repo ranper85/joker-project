@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
