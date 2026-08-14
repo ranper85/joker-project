@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
