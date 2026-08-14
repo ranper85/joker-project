@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
