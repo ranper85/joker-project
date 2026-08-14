@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Geology rocks, but Geography is where it's at!
 
 <!-- END -->
 
