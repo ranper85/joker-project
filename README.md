@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
