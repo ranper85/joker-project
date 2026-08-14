@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
