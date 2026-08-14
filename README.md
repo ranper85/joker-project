@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
