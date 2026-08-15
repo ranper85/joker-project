@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
