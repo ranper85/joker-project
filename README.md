@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
