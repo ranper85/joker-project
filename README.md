@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
