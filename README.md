@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
