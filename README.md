@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
