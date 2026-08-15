@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
