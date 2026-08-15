@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
