@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
