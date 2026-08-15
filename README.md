@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
