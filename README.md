@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
