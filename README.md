@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
