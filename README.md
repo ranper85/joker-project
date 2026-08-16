@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
