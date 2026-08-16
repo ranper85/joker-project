@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
