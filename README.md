@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
