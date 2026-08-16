@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
