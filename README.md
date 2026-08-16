@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, âsorry we donât serve spiritsâ
 
 <!-- END -->
 
