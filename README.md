@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
