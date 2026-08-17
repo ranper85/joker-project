@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
