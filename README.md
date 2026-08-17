@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
