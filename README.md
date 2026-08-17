@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
