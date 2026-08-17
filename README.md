@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
+> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
 
 <!-- END -->
 
