@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
 
 <!-- END -->
 
