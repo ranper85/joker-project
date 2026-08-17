@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
