@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
