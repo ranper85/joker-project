@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why are pirates called pirates? Because they arrr!
 
 <!-- END -->
 
