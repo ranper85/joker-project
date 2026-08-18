@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
