@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
