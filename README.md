@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
