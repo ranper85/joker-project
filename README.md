@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
