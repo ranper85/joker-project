@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
