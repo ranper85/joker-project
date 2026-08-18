@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
