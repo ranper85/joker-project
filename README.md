@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
