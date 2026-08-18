@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
