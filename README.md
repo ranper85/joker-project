@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
