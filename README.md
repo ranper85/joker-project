@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
