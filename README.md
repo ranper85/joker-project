@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
 
 <!-- END -->
 
