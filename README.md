@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 <!-- END -->
 
