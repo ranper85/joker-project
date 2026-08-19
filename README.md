@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
