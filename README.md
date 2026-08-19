@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
