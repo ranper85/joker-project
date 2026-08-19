@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
