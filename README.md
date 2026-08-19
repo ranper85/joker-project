@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
