@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
