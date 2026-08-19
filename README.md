@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a chicken with a skunk? A fowl smell!
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
