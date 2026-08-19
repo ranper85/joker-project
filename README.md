@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
