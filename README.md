@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 <!-- END -->
 
