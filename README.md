@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
