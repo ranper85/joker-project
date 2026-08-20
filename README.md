@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
