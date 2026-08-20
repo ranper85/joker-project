@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> What biscuit does a short person like? Shortbread. 
 
 <!-- END -->
 
