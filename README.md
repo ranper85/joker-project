@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
