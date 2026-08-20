@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
