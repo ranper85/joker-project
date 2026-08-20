@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
