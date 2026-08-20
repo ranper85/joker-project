@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
