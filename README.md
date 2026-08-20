@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
