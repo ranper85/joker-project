@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
