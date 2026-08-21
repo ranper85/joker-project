@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
