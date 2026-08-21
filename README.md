@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
