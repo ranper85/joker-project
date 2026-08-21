@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
