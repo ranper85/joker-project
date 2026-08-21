@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> They're making a movie about clocks. It's about time
 
 <!-- END -->
 
