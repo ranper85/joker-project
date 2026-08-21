@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
