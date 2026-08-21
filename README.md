@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
