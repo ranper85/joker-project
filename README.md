@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
