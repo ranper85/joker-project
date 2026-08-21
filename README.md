@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What cheese can never be yours? Nacho cheese.
 
 <!-- END -->
 
