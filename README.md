@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
