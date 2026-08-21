@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
