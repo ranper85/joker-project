@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
