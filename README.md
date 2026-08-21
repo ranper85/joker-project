@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> What do you call a bee that lives in America? A USB.
 
 <!-- END -->
 
