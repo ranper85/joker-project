@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
