@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
