@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
