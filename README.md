@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
