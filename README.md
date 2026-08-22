@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
