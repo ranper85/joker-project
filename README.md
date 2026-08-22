@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
