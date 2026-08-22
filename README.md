@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
