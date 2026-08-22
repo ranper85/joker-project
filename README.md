@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
