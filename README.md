@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
