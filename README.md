@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
