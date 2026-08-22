@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
