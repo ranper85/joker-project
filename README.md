@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
