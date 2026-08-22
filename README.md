@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
