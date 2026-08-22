@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
