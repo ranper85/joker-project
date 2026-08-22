@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 <!-- END -->
 
