@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
