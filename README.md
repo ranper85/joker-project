@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
