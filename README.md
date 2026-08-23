@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
 
 <!-- END -->
 
