@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
