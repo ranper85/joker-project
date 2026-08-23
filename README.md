@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
