@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
