@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 <!-- END -->
 
