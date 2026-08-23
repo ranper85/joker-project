@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
