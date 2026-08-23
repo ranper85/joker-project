@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 <!-- END -->
 
