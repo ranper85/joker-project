@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
