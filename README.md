@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What do you call a bee that lives in America? A USB.
 
 <!-- END -->
 
