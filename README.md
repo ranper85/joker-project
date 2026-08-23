@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
