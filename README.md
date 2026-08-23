@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
