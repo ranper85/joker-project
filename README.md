@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
