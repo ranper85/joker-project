@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 <!-- END -->
 
