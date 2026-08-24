@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
