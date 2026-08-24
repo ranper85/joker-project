@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
