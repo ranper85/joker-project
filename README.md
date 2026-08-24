@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
