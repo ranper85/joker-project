@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
