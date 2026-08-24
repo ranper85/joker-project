@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
