@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
