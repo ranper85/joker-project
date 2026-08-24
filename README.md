@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
