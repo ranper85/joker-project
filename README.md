@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
