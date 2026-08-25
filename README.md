@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
