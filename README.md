@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
