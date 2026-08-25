@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
