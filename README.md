@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
