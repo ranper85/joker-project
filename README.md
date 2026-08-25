@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
