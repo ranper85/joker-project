@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
