@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
