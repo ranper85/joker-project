@@ -5,7 +5,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 
 <!-- END -->
 
