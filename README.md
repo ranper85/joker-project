@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
