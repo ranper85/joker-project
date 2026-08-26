@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
