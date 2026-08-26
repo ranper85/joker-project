@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
