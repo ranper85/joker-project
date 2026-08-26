@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
