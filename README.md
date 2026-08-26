@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
