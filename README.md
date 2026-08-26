@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
