@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
 
 <!-- END -->
 
