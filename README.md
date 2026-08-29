@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
