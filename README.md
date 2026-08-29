@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
 
 <!-- END -->
 
