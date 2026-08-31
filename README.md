@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
