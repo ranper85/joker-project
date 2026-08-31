@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
