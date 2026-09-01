@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 <!-- END -->
 
