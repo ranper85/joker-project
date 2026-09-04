@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
