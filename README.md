@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
