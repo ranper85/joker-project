@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
