@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
