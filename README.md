@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 <!-- END -->
 
