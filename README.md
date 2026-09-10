@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
