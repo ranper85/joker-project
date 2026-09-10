@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
