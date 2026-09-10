@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
