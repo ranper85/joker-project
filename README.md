@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
