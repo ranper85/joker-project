@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
