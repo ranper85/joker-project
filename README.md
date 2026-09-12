@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
