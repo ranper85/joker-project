@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
