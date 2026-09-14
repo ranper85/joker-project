@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
