@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
