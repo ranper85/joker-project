@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
