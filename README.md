@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Without geometry life is pointless.
 
 <!-- END -->
 
