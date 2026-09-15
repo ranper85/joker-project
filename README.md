@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
