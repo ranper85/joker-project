@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 <!-- END -->
 
