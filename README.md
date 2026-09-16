@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
