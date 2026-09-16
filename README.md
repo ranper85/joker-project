@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
