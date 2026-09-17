@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
