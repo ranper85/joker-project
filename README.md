@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
