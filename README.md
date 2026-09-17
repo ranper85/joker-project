@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
