@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
