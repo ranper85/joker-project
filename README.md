@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
