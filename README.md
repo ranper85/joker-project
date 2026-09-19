@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
