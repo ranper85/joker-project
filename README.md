@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
