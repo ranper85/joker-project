@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
