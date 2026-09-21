@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
