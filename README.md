@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 <!-- END -->
 
