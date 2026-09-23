@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
