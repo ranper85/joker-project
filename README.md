@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
