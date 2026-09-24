@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
