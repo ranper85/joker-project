@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
