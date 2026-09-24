@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
