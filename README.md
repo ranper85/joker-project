@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
