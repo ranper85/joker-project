@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
