@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
