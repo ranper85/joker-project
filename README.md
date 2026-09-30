@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
