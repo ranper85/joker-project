@@ -5,7 +5,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
