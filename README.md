@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
