@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
