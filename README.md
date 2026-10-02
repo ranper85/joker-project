@@ -5,8 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 <!-- END -->
 
