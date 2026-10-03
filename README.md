@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
