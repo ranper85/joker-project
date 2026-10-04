@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 <!-- END -->
 
