@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.
+> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 <!-- END -->
 
