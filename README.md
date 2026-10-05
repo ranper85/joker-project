@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
