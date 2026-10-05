@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
