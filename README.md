@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
