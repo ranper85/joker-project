@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
