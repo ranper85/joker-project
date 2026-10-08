@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
