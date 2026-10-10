@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> What do you call a nervous javelin thrower? Shakespeare.
 
 <!-- END -->
 
