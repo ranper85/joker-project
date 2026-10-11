@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
