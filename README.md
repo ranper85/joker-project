@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
