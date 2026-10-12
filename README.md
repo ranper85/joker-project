@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
