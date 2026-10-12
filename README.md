@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Who did the wizard marry? His ghoul-friend
 
 <!-- END -->
 
