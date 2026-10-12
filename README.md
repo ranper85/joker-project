@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
