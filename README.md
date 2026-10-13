@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
