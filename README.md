@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
