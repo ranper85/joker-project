@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
