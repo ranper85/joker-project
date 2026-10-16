@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
