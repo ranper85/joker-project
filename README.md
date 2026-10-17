@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
