@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
