@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
