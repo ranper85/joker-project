@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
