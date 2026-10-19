@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
