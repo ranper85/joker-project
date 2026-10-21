@@ -5,9 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
