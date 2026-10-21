@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
