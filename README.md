@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
