@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
