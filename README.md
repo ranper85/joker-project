@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
