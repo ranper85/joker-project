@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
