@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
