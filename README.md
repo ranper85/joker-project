@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
