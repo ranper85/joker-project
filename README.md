@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 <!-- END -->
 
