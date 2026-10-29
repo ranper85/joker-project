@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
