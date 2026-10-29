@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
 
 <!-- END -->
 
