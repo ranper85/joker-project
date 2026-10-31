@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 <!-- END -->
 
