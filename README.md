@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
