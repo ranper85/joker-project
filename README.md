@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
