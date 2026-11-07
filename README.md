@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
