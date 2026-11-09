@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
