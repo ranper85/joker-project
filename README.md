@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
