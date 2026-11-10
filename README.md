@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
