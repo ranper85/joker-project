@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
