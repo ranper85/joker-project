@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
