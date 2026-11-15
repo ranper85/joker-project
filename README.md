@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
