@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
