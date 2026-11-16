@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
