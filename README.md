@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
