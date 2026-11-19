@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
