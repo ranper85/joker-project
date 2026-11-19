@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
