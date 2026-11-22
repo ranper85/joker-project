@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
