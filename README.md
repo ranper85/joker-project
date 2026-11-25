@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
