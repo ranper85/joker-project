@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
