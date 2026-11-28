@@ -5,7 +5,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
